@@ -5,7 +5,7 @@ This repository contains the code of the [Angular Material In Depth](https://ang
 
 This course repository is updated to Angular 20:
 
-![Angular Material In Depth](https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-material-course-1.jpg)
+![Angular Material In Depth](https://angular-academy.s3.amazonaws.com/thumbnails/angular2-for-beginners-small-v2.png)
 
 You can find the starting point of the course in the [1-start branch](https://github.com/angular-university/angular-material-course/tree/1-start).
 
@@ -120,7 +120,7 @@ If you are looking for the [Angular Universal Course](https://angular-university
 
 If you are looking for the [Angular PWA Course](https://angular-university.io/course/angular-pwa-course), the repo with the full code can be found here:
 
-![Angular PWA Course - Build the future of the Web Today](https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-pwa-course.png)
+![Angular PWA Course - Build the future of the Web Today](https://angular-academy.s3.amazonaws.com/thumbnails/angular2-for-beginners-small-v2.png)
 
 # Angular Security Masterclass
 
